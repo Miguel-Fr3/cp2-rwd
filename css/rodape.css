@@ -1,0 +1,13 @@
+.rodape{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 0%;
+}
+
+.rodape img{
+    width: 5%;
+    max-width: 5%;
+    display: inline-block;
+}
