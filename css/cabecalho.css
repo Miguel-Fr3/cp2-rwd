@@ -6,6 +6,7 @@
     background-color: #000000;
 }
 .cabecalho img{
+    margin-left: 5%;
     width: 10%;
     max-width: 10%;
     display: block;
